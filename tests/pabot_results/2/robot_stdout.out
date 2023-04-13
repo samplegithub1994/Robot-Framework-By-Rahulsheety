@@ -1,0 +1,9 @@
+==============================================================================
+testDemo6 :: To validate the login form                                       
+==============================================================================
+Select the form and navigate to child window                          | PASS |
+------------------------------------------------------------------------------
+testDemo6 :: To validate the login form                               | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\panda\PycharmProjects\Robot Framework New\tests\pabot_results\2\output.xml

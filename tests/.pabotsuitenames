@@ -1,0 +1,7 @@
+datasources:0a99cb6f04d1dc21720762e50978ea3d4ae2f0db
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:e90dbdf83576b33140b2da2dc0eaf75799d7473e
+--test testDemo6.Validate Unsuccessful Login
+--test testDemo6.Validate cards display in the shopping page
+--test testDemo6.Select the form and navigate to child window
